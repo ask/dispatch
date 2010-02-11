@@ -1,3 +1,2 @@
-"""Example scripts for the dispatch project
-"""
+"""Example scripts for the dispatch project"""
 
